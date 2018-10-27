@@ -18,5 +18,6 @@ function myFunc4(){
 function myFunc5(){
 	window.alert(Date());
 	console.log("Hey Priyanshu !!!!!!");
-	document.write("Hello World !!")
+	document.write("Hello World !!\n");
+	document.write("Priyanshu");
 }
